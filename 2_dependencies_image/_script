@@ -1,0 +1,6 @@
+syft alpine
+syft nerveshub/nerves_hub_api
+
+syft -o json nerveshub/nerves_hub_api >bom.json
+
+syft -o cyclonedx nerveshub/nerves_hub_api >bom.xml

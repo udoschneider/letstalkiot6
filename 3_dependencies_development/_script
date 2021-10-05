@@ -1,0 +1,2 @@
+cyclonedx-bom -o bom.xml ../1.1_package_spec
+cyclonedx-bom -o bom.json ../1.1_package_spec

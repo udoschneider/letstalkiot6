@@ -1,0 +1,3 @@
+npm i
+
+grep "node_modules" package-lock.json | wc -l

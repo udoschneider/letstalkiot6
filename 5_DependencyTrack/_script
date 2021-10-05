@@ -1,0 +1,7 @@
+curl -LO https://dependencytrack.org/docker-compose.yml
+docker-compose up -d
+
+http://127.0.0.1:8080
+
+admin
+AwHEdthGmjvW9HJ

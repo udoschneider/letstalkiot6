@@ -1,0 +1,12 @@
+https://app.snyk.io/org/udoschneider/
+
+https://management.iotsecurity.trendmicro.com/signin
+
+grype alpine
+grype nerveshub/nerves_hub_api
+
+grype -o cyclonedx alpine >alpine_bom.xml
+grype -o cyclonedx nerveshub/nerves_hub_api >nerveshub_bom.xml
+
+https://docs.gitlab.com/ee/user/application_security/#security-scanning-tools
+
